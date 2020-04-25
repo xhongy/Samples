@@ -1,0 +1,3 @@
+rootProject.name='ClassLoaderTest'
+include ':app'
+include ':patchlib'
